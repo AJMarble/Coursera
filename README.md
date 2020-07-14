@@ -7,7 +7,7 @@ Final project for my intro to HTML5 course, with coursera.
 <h2>My Coursera Final </h2>
 <ul id= "menu">
 <section class= "links">
-<a class= "About" href= "#About" title= "About"> <a class= "Contact" href= "#contact" title= "Contact"><a class= "Book" href= "#Book" title= "Book">
+<a class= "About" href= "#About" title= "About"> <a class= "Contact" href= "#contact" title= "Contact"> <a class= "Book" href= "#Book" title= "Book">
 </ul>
 <h3>My Favorite Foods </h3>
 <ul>
@@ -41,5 +41,7 @@ I am married. I have a daughter and a dog. My family is makes my safe space.
 </p>
 <figure>
 <img src= "http://www.intro-webdesign.com/images/newlogo.png" alt= intro to web desight>
-<figcaption>This page was created by Adia and Colleen van Lent. To learn more about web design, visit <a href="http://www.intro-webdesign.com."> Intro to Web Design.</a></figcaption>
+<figcaption>This page was created by Adia and Colleen van Lent. To learn more about web design, visit 
+<a href="http://www.intro-webdesign.com."> Intro to Web Design.</a>
+</figcaption>
 </body>
