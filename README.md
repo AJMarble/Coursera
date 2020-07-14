@@ -6,8 +6,8 @@ Final project for my intro to HTML5 course, with coursera.
 <h1>Adia </h1>
 <h2>My Coursera Final </h2>
 <ul id= "menu">
-<section class= "links">
-<a class= "About" href= "#About" title= "About"> <a class= "Contact" href= "#contact" title= "Contact"> <a class= "Book" href= "#Book" title= "Book">
+<section class= "links"> 
+  <a class= "About" href= "#About" title= "About"> About </a>      <a class= "Contact" href= "#contact" title= "Contact">Contact </a> <a class= "Book" href= "#Book" title= "Book">Book </a>
 </ul>
 <h3>My Favorite Foods </h3>
 <ul>
