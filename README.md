@@ -16,15 +16,12 @@ Final project for my intro to HTML5 course, with coursera.
 <li>French Fries</li>
 </ul>
 <h3>Achievements</h3>
-<div class="w3-light-blue">
-  <div class="w3-container w3-green w3-center" style="width:95%">Procress in this course 95%</div>
-</div>
-<div class="w3-light-blue">
-  <div class="w3-container w3-green w3-center" style="width:20%">Progress in the Specialization capstone 20%</div>
-</div>
-<div class="w3-light-blue">
-  <div class="w3-container w3-green w3-center" style="width:45%">Progress in life goals 45%</div>
-</div>
+<label for="file">Procress in this course</label>
+<progress id="file" value="95" max="100"> 95% </progress>
+<label for="file">Progress in the Specialization capstone 20%</label>
+<progress id="file" value="20" max="100"> 20% </progress>
+<label for="file">Progress in life goals</label>
+<progress id="file" value="45" max="100"> 45% </progress>
 <h4>More About Me </h4>
 <p>
 I am married. I have a daughter and a dog. My family is makes my safe space.
